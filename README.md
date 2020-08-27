@@ -10,3 +10,6 @@
 
 ### App Login
 - user app login with a limited list of usernames and passwords, includes 2FA and a limit on attempts
+
+### Car Game
+- basic engine for a car game; user can start/stop car and is alerted after doing so more than once - also provides help controls
